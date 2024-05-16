@@ -1,0 +1,9 @@
+.custom-border {
+    background-color: white;
+    width: 50%;
+    margin: 100px auto;
+    padding: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #333333;
+    align-items: center;
+}
